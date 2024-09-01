@@ -1,0 +1,26 @@
+/* .mainTableContainer {
+   position: absolute;
+   right: 60px;
+   top: 300px;
+} */
+
+/* .pricePerTimeWrap{
+   display: flex;
+} */
+
+.appMainWrap{
+   display: flex;
+   justify-content: space-around;
+}
+ /* .overlay{
+
+
+    display: block;
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: #000000af;
+        z-index: 3;
+ } */
